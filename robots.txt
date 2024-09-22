@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gkybhh.github.io/sitemap.html.gz
+Sitemap: https://gkybhh.github.io/app/sitemap.html.gz
+Sitemap: https://gkybhh.github.io/assets/sitemap.html.gz
+Sitemap: https://gkybhh.github.io/css/sitemap.html.gz
+Sitemap: https://gkybhh.github.io/data/sitemap.html.gz
+Sitemap: https://gkybhh.github.io/includes/sitemap.html.gz
+Sitemap: https://gkybhh.github.io/item/sitemap.html.gz
+Sitemap: https://gkybhh.github.io/src/sitemap.html.gz
